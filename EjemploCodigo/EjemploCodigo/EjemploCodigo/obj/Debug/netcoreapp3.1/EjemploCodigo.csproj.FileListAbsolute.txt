@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.exe
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.deps.json
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.dll
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\bin\Debug\netcoreapp3.1\EjemploCodigo.pdb
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\obj\Debug\netcoreapp3.1\EjemploCodigo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\obj\Debug\netcoreapp3.1\EjemploCodigo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\obj\Debug\netcoreapp3.1\EjemploCodigo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\obj\Debug\netcoreapp3.1\EjemploCodigo.dll
+C:\Users\Usuario\Desktop\EjemploCodigo\EjemploCodigo\EjemploCodigo\obj\Debug\netcoreapp3.1\EjemploCodigo.pdb
