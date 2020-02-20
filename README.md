@@ -24,4 +24,29 @@ else
 }
 ```
 
+# Operador ternario
+```
+expresión boleana ? valor si cierto : valor si falso
+```
+```
+is this condition true ? yes : no
+```
+```C#
+int input = new Random().Next(-5, 5);
+
+string classify;
+if (input >= 0)
+{
+    classify = "nonnegative";
+}
+else
+{
+    classify = "negative";
+}
+
+classify = (input >= 0) ? "nonnegative" : "negative";
+        Console.Write(classify);
+
+}
+```
 
