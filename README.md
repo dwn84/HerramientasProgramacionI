@@ -137,5 +137,49 @@ Console.WriteLine("Vuelva pronto.");
 # try-catch
 La declaración ```try``` consiste en un bloque ```try``` que contiene una o más sentencias (se debe usar siempre {} incluso para una sola sentencia) y al menos una cláusula ```catch``` o una cláusula ```finally```, o bien ambas. Esto nos da tres formas posibles para la declaración ```try```:
 - ```try...catch```
--```try...finally```
--```try...catch...finally```
+- ```try...finally```
+- ```try...catch...finally```
+Ejemplos en C#
+```C#
+try
+{
+    Console.Write("Ingrese un valor:");
+    string dato = Console.ReadLine();
+    var num = int.Parse(dato);
+    var cuadrado = num * num;
+    Console.WriteLine("El cuadraro es: " + cuadrado);
+}
+catch(Exception e)
+{
+    Console.WriteLine("Debe ingresar obligatoriamente un número entero.");
+}
+
+try 
+{
+    string linea;
+    Console.Write("Ingrese el primer valor:");
+    linea = Console.ReadLine();
+    int num1 = System.Convert.ToInt32(linea);
+    Console.Write("Ingrese el segundo valor:");
+    linea = Console.ReadLine();
+    int num2 = System.Convert.ToInt32(linea);;
+    int result = num1/num2;
+    Console.WriteLine("La división de los números es: " + result);
+}
+catch(ArithmeticException e)
+{
+    Console.WriteLine("Imposible dividir por cero.");
+}
+catch(FormatException e)
+{
+    Console.WriteLine("Debe ingresar obligatoriamente un número entero.");
+}
+catch(Exception e)
+{
+    Console.WriteLine("Error genérico o desconocido" + e.Message);
+}
+finally
+{
+    Console.WriteLine("Fin del proceso");
+}
+```
