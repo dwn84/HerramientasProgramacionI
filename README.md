@@ -133,3 +133,6 @@ Console.WriteLine("Vuelva pronto.");
 ¿Cuánto cuesta cada tipo de café?
 
 ¿goto?
+
+# try-catch
+La declaración ```try``` consiste en un bloque try que contiene una o más sentencias (se debe usar siempre {} incluso para una sola sentencia) y al menos una cláusula catch o una cláusula finally, o bien ambas. Esto nos da tres formas posibles para la declaración try:
