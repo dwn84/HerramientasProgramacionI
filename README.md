@@ -98,3 +98,35 @@ switch (c)
       Console.WriteLine("The color is unknown.");
       break;   
 }
+```
+Ejemplo switch
+```C#
+Console.WriteLine("Tamaño del café: 1=pequeño 2=medio 3=grande");
+Console.Write("Ingrese su elección: ");
+string str = Console.ReadLine();
+int cost = 0;
+
+switch (str)
+{
+  case "1":
+  case "pequeño":
+      cost += 25;
+      break;
+  case "2":
+  case "medio":
+      cost += 25;
+      goto case "1";
+  case "3":
+  case "grande":
+      cost += 50;
+      goto case "1";
+  default:
+      Console.WriteLine("Valor incorrect.Debe escribir 1, 2, o 3.");
+      break;
+}
+if (cost != 0)
+{
+    Console.WriteLine("Valor del café: "+  cost);
+}
+Console.WriteLine("Vuelva pronto.");
+```
