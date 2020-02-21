@@ -114,14 +114,14 @@ switch (str)
       break;
   case "2":
   case "medio":
-      cost += 25;
+      cost += 15;
       goto case "1";
   case "3":
   case "grande":
-      cost += 50;
+      cost += 27;
       goto case "1";
   default:
-      Console.WriteLine("Valor incorrect.Debe escribir 1, 2, o 3.");
+      Console.WriteLine("Valor incorrecto. Debe escribir 1, 2, o 3.");
       break;
 }
 if (cost != 0)
