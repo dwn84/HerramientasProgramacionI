@@ -130,3 +130,5 @@ if (cost != 0)
 }
 Console.WriteLine("Vuelva pronto.");
 ```
+¿Cuánto cuesta cada tipo de café?
+¿goto?
