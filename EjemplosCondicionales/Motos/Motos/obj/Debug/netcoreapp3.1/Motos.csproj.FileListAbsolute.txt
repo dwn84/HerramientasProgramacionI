@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.exe
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.deps.json
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.runtimeconfig.json
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.dll
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\bin\Debug\netcoreapp3.1\Motos.pdb
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\obj\Debug\netcoreapp3.1\Motos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\obj\Debug\netcoreapp3.1\Motos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\obj\Debug\netcoreapp3.1\Motos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\obj\Debug\netcoreapp3.1\Motos.dll
+C:\Users\Usuario\Desktop\EjemplosCondicionales\Motos\Motos\obj\Debug\netcoreapp3.1\Motos.pdb
