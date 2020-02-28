@@ -165,8 +165,7 @@ try
     int num2 = System.Convert.ToInt32(linea);;
     int result = num1/num2;
     Console.WriteLine("La división de los números es: " + result);
-}
-catch(ArithmeticException e)
+}catch(ArithmeticException e)
 {
     Console.WriteLine("Imposible dividir por cero.");
 }
@@ -183,3 +182,6 @@ finally
     Console.WriteLine("Fin del proceso");
 }
 ```
+# Programación Orientada a Objetos
+
+[Creación de clases](https://dwn84.github.io/diapositivas/POO.html)
