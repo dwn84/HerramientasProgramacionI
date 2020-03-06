@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.exe
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.deps.json
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.runtimeconfig.json
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.dll
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\bin\Debug\netcoreapp3.1\EjemploClases.pdb
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\obj\Debug\netcoreapp3.1\EjemploClases.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\obj\Debug\netcoreapp3.1\EjemploClases.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\obj\Debug\netcoreapp3.1\EjemploClases.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\obj\Debug\netcoreapp3.1\EjemploClases.dll
+C:\Users\Administrador\source\repos\EjemploClases\EjemploClases\obj\Debug\netcoreapp3.1\EjemploClases.pdb
