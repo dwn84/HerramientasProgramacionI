@@ -185,3 +185,6 @@ finally
 # Programación Orientada a Objetos
 
 [Creación de clases](https://dwn84.github.io/diapositivas/POO.html)
+
+
+[Herencia](https://dwn84.github.io/diapositivas/herencia.html)
