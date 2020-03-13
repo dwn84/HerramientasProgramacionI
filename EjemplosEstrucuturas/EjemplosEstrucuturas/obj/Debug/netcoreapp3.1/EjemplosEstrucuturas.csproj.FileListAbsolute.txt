@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.exe
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.deps.json
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.runtimeconfig.json
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.dll
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\bin\Debug\netcoreapp3.1\EjemplosEstrucuturas.pdb
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\obj\Debug\netcoreapp3.1\EjemplosEstrucuturas.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\obj\Debug\netcoreapp3.1\EjemplosEstrucuturas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\obj\Debug\netcoreapp3.1\EjemplosEstrucuturas.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\obj\Debug\netcoreapp3.1\EjemplosEstrucuturas.dll
+C:\Users\Administrador\Desktop\EjemplosEstructuras\EjemplosEstrucuturas\EjemplosEstrucuturas\obj\Debug\netcoreapp3.1\EjemplosEstrucuturas.pdb
