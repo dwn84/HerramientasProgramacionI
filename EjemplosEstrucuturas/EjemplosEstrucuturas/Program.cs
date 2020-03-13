@@ -1,4 +1,9 @@
 ﻿using System;
+//agregar nuevas características a los objetos
+using System.Linq;
+using System.Collections.Generic;
+
+
 
 namespace EjemplosEstrucuturas
 {
@@ -95,6 +100,118 @@ namespace EjemplosEstrucuturas
                 e++;
             }
 
+            //sumar dos matrices
+
+            int[,] a = new int[3, 3];
+            int[,] b = new int[3, 3];
+            int[,] c = new int[3, 3];
+            //lenar la matriz a
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    a[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            //lenar la matriz b
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    b[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            //lenar la matriz c
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    c[i, j] = a[i, j] + b[i, j];
+                }
+            }
+
+            //mostrar la matriz de suma
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+
+                    Console.Write(c[i, j] + " ");
+                }
+                Console.WriteLine("");
+            }
+            /*
+             Given five positive integers, 
+             find the minimum and maximum values that can be 
+             calculated by summing exactly four of the five 
+             integers. Then print the respective minimum and 
+             maximum values as a single line of two 
+             space-separated long integers.
+             */
+
+            int[] datos = {256741038,623958417,467905213,714532089,938071625};
+            long[] nuevosDatos = new long[5];
+            for (int i = 0; i < 5; i++)
+            {
+                nuevosDatos[i] = datos[i];
+            }
+            long min = nuevosDatos.Min();
+            long max = nuevosDatos.Max();
+            long sum = nuevosDatos.Sum();
+            Console.WriteLine("El mínimo es: " + min);
+            Console.WriteLine("El máximo es: " + max);
+            Console.WriteLine("La suma es: " + sum);
+            //mostrar datos originales
+            foreach (int d in datos) 
+            {
+                Console.WriteLine(d);
+            }
+            //ordenar los datos
+            Array.Sort(datos);
+            Console.WriteLine("---------");
+            //mostrar el resultado
+
+            foreach (int d in datos)
+            {
+                Console.WriteLine(d);
+            }
+            long sumaMaxima = sum - min;
+            long sumaMinima = sum - max;
+            Console.WriteLine("La suma mínima: " + sumaMinima);
+            Console.WriteLine("La suma máxima: " + sumaMaxima);
+
+
+            //manejo de listas
+            //crear una nueva lista de enteros
+            List<int> noticas = new List<int>();
+            //crear una nueva lista de reales
+            List<double> calificaciones = new List<double>();
+            //crear una nueva lista de jugadores (una nueva clase)
+            List<Jugador> equipo = new List<Jugador>();
+
+            //agregar datos a la lista
+
+            noticas.Add(5);
+            noticas.Add(4);
+            noticas.Add(3);
+            noticas.Add(5);
+
+            calificaciones.Add(3.3);
+            calificaciones.Add(4.4);
+            calificaciones.Add(2.3);
+
+            equipo.Add(new Jugador("Falcao",35));
+            equipo.Add(new Jugador("James", 27));
+
+            //agregar un dato en un lugar especifico
+            noticas.Insert(1, 9);
+
+            //mostrar todas las noticas
+
+            foreach (int n in noticas)
+            {
+                Console.WriteLine(n);
+            }
 
         }
     }

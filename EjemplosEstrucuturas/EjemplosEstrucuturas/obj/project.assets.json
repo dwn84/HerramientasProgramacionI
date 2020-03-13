@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\HerramientasProgramacionI\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
       "projectName": "EjemplosEstrucuturas",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\HerramientasProgramacionI\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\HerramientasProgramacionI\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
