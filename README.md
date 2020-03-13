@@ -204,7 +204,7 @@ finally
 [tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/csharpya/)
 
 
-#Ejercicios
+# Ejercicios
 
 [1](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 [2](https://www.hackerrank.com/challenges/grading/problem)
