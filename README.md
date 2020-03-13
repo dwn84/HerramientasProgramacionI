@@ -182,6 +182,15 @@ finally
     Console.WriteLine("Fin del proceso");
 }
 ```
+
+# Arreglos
+
+[Definición de arreglos](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
+
+# Listas
+
+[Manejo de listas](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=netframework-4.8)
+
 # Programación Orientada a Objetos
 
 [Creación de clases](https://dwn84.github.io/diapositivas/POO.html)
@@ -193,3 +202,10 @@ finally
 # Página de estudio
 
 [tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/csharpya/)
+
+
+#Ejercicios
+
+[1](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+[2](https://www.hackerrank.com/challenges/grading/problem)
+
