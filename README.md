@@ -188,3 +188,8 @@ finally
 
 
 [Herencia](https://dwn84.github.io/diapositivas/herencia.html)
+
+
+# Página de estudio
+
+[tutorialesprogramacionya](https://www.tutorialesprogramacionya.com/csharpya/)
