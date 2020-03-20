@@ -207,5 +207,6 @@ finally
 # Ejercicios
 
 [1](https://www.hackerrank.com/challenges/mini-max-sum/problem)
-[2](https://www.hackerrank.com/challenges/grading/problem)
+[2](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+[3](https://www.hackerrank.com/challenges/grading/problem)
 
