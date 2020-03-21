@@ -1,4 +1,11 @@
 ﻿using System;
+//agregar nuevas características a los objetos
+using System.Linq;
+using System.Collections.Generic;
+
+
+
+
 
 namespace EjemplosEstrucuturas
 {
@@ -11,6 +18,9 @@ namespace EjemplosEstrucuturas
             //la nota promedio de cada estudiante
             //el número de estudiantes que aprobaron y perdieron cada materia
             //la nota promedio de cada materia
+
+            /*
+
             int M;
             Console.Write("Ingrese la cantidad total estudiantes: ");
             M = int.Parse(Console.ReadLine());
@@ -95,6 +105,196 @@ namespace EjemplosEstrucuturas
                 e++;
             }
 
+            //sumar dos matrices
+
+            int[,] a = new int[3, 3];
+            int[,] b = new int[3, 3];
+            int[,] c = new int[3, 3];
+            //lenar la matriz a
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    a[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            //lenar la matriz b
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    b[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            //lenar la matriz c
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    c[i, j] = a[i, j] + b[i, j];
+                }
+            }
+
+            //mostrar la matriz de suma
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+
+                    Console.Write(c[i, j] + " ");
+                }
+                Console.WriteLine("");
+            }
+
+            */
+            /*
+             Given five positive integers, 
+             find the minimum and maximum values that can be 
+             calculated by summing exactly four of the five 
+             integers. Then print the respective minimum and 
+             maximum values as a single line of two 
+             space-separated long integers.
+             */
+            /*
+           int[] datos = {256741038,623958417,467905213,714532089,938071625};
+           long[] nuevosDatos = new long[5];
+           for (int i = 0; i < 5; i++)
+           {
+               nuevosDatos[i] = datos[i];
+           }
+           long min = nuevosDatos.Min();
+           long max = nuevosDatos.Max();
+           long sum = nuevosDatos.Sum();
+           Console.WriteLine("El mínimo es: " + min);
+           Console.WriteLine("El máximo es: " + max);
+           Console.WriteLine("La suma es: " + sum);
+           //mostrar datos originales
+           foreach (int d in datos) 
+           {
+               Console.WriteLine(d);
+           }
+           //ordenar los datos
+           Array.Sort(datos);
+           Console.WriteLine("---------");
+           //mostrar el resultado
+
+           foreach (int d in datos)
+           {
+               Console.WriteLine(d);
+           }
+           long sumaMaxima = sum - min;
+           long sumaMinima = sum - max;
+           Console.WriteLine("La suma mínima: " + sumaMinima);
+           Console.WriteLine("La suma máxima: " + sumaMaxima);
+
+
+           //manejo de listas
+           //crear una nueva lista de enteros
+           List<int> noticas = new List<int>();
+           //crear una nueva lista de reales
+           List<double> calificaciones = new List<double>();
+           //crear una nueva lista de jugadores (una nueva clase)
+           List<Jugador> equipo = new List<Jugador>();
+
+
+           //agregar datos a la lista
+
+           noticas.Add(5);
+           noticas.Add(4);
+           noticas.Add(3);
+           noticas.Add(5);
+
+           calificaciones.Add(3.3);
+           calificaciones.Add(4.4);
+           calificaciones.Add(2.3);
+
+           equipo.Add(new Jugador("Falcao",35));
+           equipo.Add(new Jugador("James", 27));
+           equipo.Add(new Jugador("Higuita", 57));
+
+           //agregar un dato en un lugar especifico
+           noticas.Insert(1, 9);
+
+           //mostrar todas las noticas
+
+           foreach (int n in noticas)
+           {
+               Console.WriteLine(n);
+           }
+
+           foreach (Jugador player in equipo) 
+           {
+               Console.WriteLine("El jugador: "+ player.Nombre+ " tiene " +player.Edad + " años");
+           }
+
+*/
+
+
+
+            /*
+             * 
+             * Tomado de : https://www.hackerrank.com/challenges/compare-the-triplets/problem
+             * 
+             */
+
+            int[] a = new int[3];// puntajes de alicia
+            int[] b = new int[3];// puntajes de bobby
+            String[] criterios = {"claridad del problema", "originalidad", "dificultad" };
+
+            for (int f = 0; f < 3; f++) 
+            {
+                Console.WriteLine("Ingrese el puntaje de " + criterios[f] + " para Alicia");
+                a[f]= Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Ingrese el puntaje de " + criterios[f] + " para Bobby");
+                b[f] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            int[] puntajeFinal = new int[2];
+            int m = 0;
+            int comparacion;
+            foreach (int puntajeA in a)
+            {
+
+                comparacion = puntajeA.CompareTo(b[m]);
+                switch (comparacion) 
+                {
+                    case 1:
+                        puntajeFinal[0]++;
+                        break;
+                    case -1:
+                        puntajeFinal[1]++;
+                        break;
+
+                }
+                Console.WriteLine(comparacion);
+                m++;
+            }
+
+            Console.WriteLine("El puntaje de alicia es: " + puntajeFinal[0]);
+            Console.WriteLine("El puntaje de bobby es: " + puntajeFinal[1]);
+            /*
+             * https://www.hackerrank.com/challenges/grading/problem
+             * 
+             */
+
+            /*
+            Console.WriteLine("Ingresar cantidad de estudiantes");
+
+            int ConteoEstudiantes = Convert.ToInt32(Console.ReadLine().Trim());
+
+            List<int> listaNotas = new List<int>();
+
+            for (int i = 0; i < ConteoEstudiantes; i++)
+            {
+                Console.WriteLine("Ingresar la nota del estudiante");
+                int nota = Convert.ToInt32(Console.ReadLine().Trim());
+                listaNotas.Add(nota);
+            }
+
+            List<int> r = ProcesamientoNota.calcularNota(listaNotas);
+
+            Console.WriteLine(String.Join("\t", r));
+             */
 
         }
     }

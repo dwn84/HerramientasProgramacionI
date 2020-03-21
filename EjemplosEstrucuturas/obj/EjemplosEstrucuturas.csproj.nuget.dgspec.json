@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj": {}
+    "C:\\Users\\samaniw\\Desktop\\HerramientasProgramacionI-master\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj": {
+    "C:\\Users\\samaniw\\Desktop\\HerramientasProgramacionI-master\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
+        "projectUniqueName": "C:\\Users\\samaniw\\Desktop\\HerramientasProgramacionI-master\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
         "projectName": "EjemplosEstrucuturas",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\EjemplosEstructuras\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\obj\\",
+        "projectPath": "C:\\Users\\samaniw\\Desktop\\HerramientasProgramacionI-master\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\EjemplosEstrucuturas.csproj",
+        "packagesPath": "C:\\Users\\samaniw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samaniw\\Desktop\\HerramientasProgramacionI-master\\EjemplosEstrucuturas\\EjemplosEstrucuturas\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\samaniw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
