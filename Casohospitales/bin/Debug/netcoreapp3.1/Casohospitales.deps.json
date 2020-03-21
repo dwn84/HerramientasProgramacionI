@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Casohospitales/1.0.0": {
+        "runtime": {
+          "Casohospitales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casohospitales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

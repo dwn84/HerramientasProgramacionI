@@ -1,0 +1,11 @@
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.exe
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.deps.json
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.runtimeconfig.json
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.runtimeconfig.dev.json
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.dll
+C:\Users\samaniw\source\repos\Casohospitales\bin\Debug\netcoreapp3.1\Casohospitales.pdb
+C:\Users\samaniw\source\repos\Casohospitales\obj\Debug\netcoreapp3.1\Casohospitales.csprojAssemblyReference.cache
+C:\Users\samaniw\source\repos\Casohospitales\obj\Debug\netcoreapp3.1\Casohospitales.AssemblyInfoInputs.cache
+C:\Users\samaniw\source\repos\Casohospitales\obj\Debug\netcoreapp3.1\Casohospitales.AssemblyInfo.cs
+C:\Users\samaniw\source\repos\Casohospitales\obj\Debug\netcoreapp3.1\Casohospitales.dll
+C:\Users\samaniw\source\repos\Casohospitales\obj\Debug\netcoreapp3.1\Casohospitales.pdb
