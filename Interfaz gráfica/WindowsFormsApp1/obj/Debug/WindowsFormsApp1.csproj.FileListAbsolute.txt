@@ -1,0 +1,13 @@
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVentanaPrincipal.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmImagen.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAreaTriangulo.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmConversorDistancia.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Interfaz gráfica\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVentaCafe.resources
