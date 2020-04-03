@@ -1,0 +1,10 @@
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.exe.config
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\bin\Debug\EjerciciosPracticos.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.csprojAssemblyReference.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.Form1.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.Properties.Resources.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.csproj.GenerateResource.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.Form2.resources
