@@ -209,4 +209,5 @@ finally
 [1](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 [2](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 [3](https://www.hackerrank.com/challenges/grading/problem)
+[4](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 
