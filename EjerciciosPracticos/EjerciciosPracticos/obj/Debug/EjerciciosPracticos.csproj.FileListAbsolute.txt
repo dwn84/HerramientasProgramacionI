@@ -8,3 +8,4 @@ C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\Ejercici
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.exe
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.pdb
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.Form2.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\EjerciciosPracticos\EjerciciosPracticos\obj\Debug\EjerciciosPracticos.frmConsultas.resources

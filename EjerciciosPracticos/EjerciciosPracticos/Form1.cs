@@ -25,6 +25,7 @@ namespace EjerciciosPracticos
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
+
             //validar si el cuadro de texto se encuentra vacio o en blanco
             if (txtDato.Text == "")
             {
@@ -47,6 +48,10 @@ namespace EjerciciosPracticos
         {
 
             int n = lstDatos.Items.Count - 1;
+            foreach (var x in lstDatos.Items)
+            {
+                MessageBox.Show("data:"+x.ToString());
+            }
             for (int i = n; i >= 0; i--)
             {
 
