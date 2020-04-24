@@ -198,6 +198,9 @@ finally
 
 [Herencia](https://dwn84.github.io/diapositivas/herencia.html)
 
+# Conjuntos de datos en aplicaciones de Visual Studio en Windows Forms
+
+[DataGridView ](https://docs.microsoft.com/es-es/dotnet/api/system.windows.forms.datagridview?view=netframework-4.8).
 
 # Página de estudio
 
