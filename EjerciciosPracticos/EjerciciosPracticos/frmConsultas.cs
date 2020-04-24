@@ -41,6 +41,7 @@ namespace EjerciciosPracticos
         {
             lstResults.Items.Clear();
             int contadorRepeticion;
+            double x = Convert.ToDouble(txtQuery.Text);
 
             //recorrer los items de consulta
             foreach (var query in lstQueries.Items)
