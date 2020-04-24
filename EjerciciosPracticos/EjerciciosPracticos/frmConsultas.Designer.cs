@@ -113,7 +113,7 @@
             this.btnAgregarPalabra.TabIndex = 12;
             this.btnAgregarPalabra.Text = "Agregar palabra";
             this.btnAgregarPalabra.UseVisualStyleBackColor = true;
-            this.btnAgregarPalabra.Click += new System.EventHandler(this.button1_Click);
+            this.btnAgregarPalabra.Click += new System.EventHandler(this.btnAgregarPalabra_Click);
             // 
             // btnAgregarConsulta
             // 
@@ -123,6 +123,7 @@
             this.btnAgregarConsulta.TabIndex = 13;
             this.btnAgregarConsulta.Text = "Agregar consulta";
             this.btnAgregarConsulta.UseVisualStyleBackColor = true;
+            this.btnAgregarConsulta.Click += new System.EventHandler(this.btnAgregarConsulta_Click);
             // 
             // frmConsultas
             // 
