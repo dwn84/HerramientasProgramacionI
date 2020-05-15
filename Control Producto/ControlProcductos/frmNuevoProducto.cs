@@ -54,6 +54,14 @@ namespace ControlProcductos
         {
             frmCategorias cat = new frmCategorias(listaCat, cmbCategorias);
             cat.ShowDialog();
+            //se ha terminado el proceso de categorias
+            cmbCategorias.Items.Clear();
+            foreach (string dato in cat.cat)
+            {
+                cmbCategorias.Items.Add(dato);
+
+            }
+
         }
     }
 }

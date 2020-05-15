@@ -9,3 +9,4 @@ C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProc
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.csproj.GenerateResource.cache
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.exe
 C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.frmActualizarProducto.resources

@@ -7,13 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//agregar libreria de depuración
+using System.Diagnostics;
 
 namespace ControlProcductos
 {
     public partial class frmCategorias : Form
     {
 
-        List<string> cat;
+        public List<string> cat;
         ComboBox misCategorias;
         public frmCategorias()
         {
@@ -66,7 +68,11 @@ namespace ControlProcductos
             }
             else 
             {
-                cmbCategorias.Items.Remove(cmbCategorias.Text);
+                //para depurar se utiliza Debug.... o se presiona la tecla F9 para detener la ejecución y examinar variables y objetos
+                //Debug.WriteLine("Contenido del combobox" + cmbCategorias.Text);
+                cat.Remove(cmbCategorias.Text);
+                cmbCategorias.Items.Remove(cmbCategorias.Text);               
+
             }
         }
     }
