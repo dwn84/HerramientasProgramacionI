@@ -191,7 +191,7 @@ finally
 
 [Manejo de listas](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=netframework-4.8)
 
-# Programación Orientada a Objetos
+# Presentaciones de Programación Orientada a Objetos
 
 [Creación de clases](https://dwn84.github.io/diapositivas/POO.html)
 
